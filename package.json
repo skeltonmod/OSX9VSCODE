@@ -22,5 +22,9 @@
                 "path": "./themes/classplat-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skeltonmod/OSX9VSCODE"
     }
 }
