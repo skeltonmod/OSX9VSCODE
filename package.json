@@ -1,0 +1,26 @@
+{
+    "name": "classicplatinum",
+    "displayName": "Classic Platinum",
+    "description": "A shitty rendition of my Terminal Color",
+    "version": "0.0.1",
+    "publisher": "novidash",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "OSX",
+        "platinum"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "classplat",
+                "uiTheme": "vs",
+                "path": "./themes/classplat-color-theme.json"
+            }
+        ]
+    }
+}
